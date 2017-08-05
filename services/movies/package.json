@@ -1,0 +1,24 @@
+{
+  "name": "movies-service",
+  "version": "1.0.0",
+  "description": "Movies microservice",
+  "main": "src/app.js",
+  "author": "Dmitryi Feschenko",
+  "license": "MIT",
+  "scripts": {
+    "start": "",
+    "test": "./node_modules/mocha/bin/_mocha 'app/tests/**/*.test.js'"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.5.0"
+  }
+}
