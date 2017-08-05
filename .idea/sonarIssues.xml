@@ -13,6 +13,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/services/movies/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/services/movies/src/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/services/movies/src/server.js">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

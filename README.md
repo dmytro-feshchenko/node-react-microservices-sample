@@ -1,4 +1,5 @@
 # Sample project which shows how to use Docker to manage a number of Node.js microservices
+[![Code Climate](https://codeclimate.com/github/technoboom/node-react-microservices-sample/badges/gpa.svg)](https://codeclimate.com/github/technoboom/node-react-microservices-sample)
 
 ## Project description:
 We are going to design a simple but yet powerful service for searching movies.
