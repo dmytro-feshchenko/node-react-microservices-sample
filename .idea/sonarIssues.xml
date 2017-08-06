@@ -13,6 +13,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/services/movies/Dockerfile">
           <value>
             <set />
@@ -34,6 +39,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/services/movies/webpack.config.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/services/web/package.json">
           <value>
             <set />
           </value>

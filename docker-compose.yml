@@ -1,0 +1,13 @@
+version: '2.1'
+
+services:
+  movies-service:
+    container_name: movies-service
+    build: ./services/movies
+    volumes:
+     - './services/movies:/usr/src/app'
+     - './services/movies/package.json:/usr/src/package.json'
+    ports:
+     - '3001:3000'
+    environment:
+     - NODE_ENV=${NODE_ENV}
