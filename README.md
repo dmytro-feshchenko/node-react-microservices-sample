@@ -8,10 +8,23 @@ There are few prerequisites to build the service:
 2. Dive into Docker and Docker Compose
 3. Get pleasure
 
+## Getting Started (How to Run and Build):
+Clone the project:
+`git clone https://github.com/technoboom/node-react-microservices-sample`.
+
 ## What we are going to use:
-- Docker
-- Node.js (Express)
-- React
+- Docker and Docker Compose - they will help us to build and manage
+containers
+- Node.js (Express) - for designing APIs and creating servers
+- React - for building web interface
+- Webpack 3 - as a module bundler
 - PostgreSQL
-- Swagger UI
-- Jest + Enzyme
+- Swagger UI - for bulding docs
+- Jest + Enzyme - for unit, snapshot and full featured
+components testing
+
+## Micro services:
+1. Movies - contains API for managing movies (CRUD, search, etc.).
+2. (Not ready) Users - allows authentication and authorization, adds
+an ability to use CRUD for users list.
+3. (Not ready) Web - contains web interface for the project.
