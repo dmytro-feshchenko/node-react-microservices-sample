@@ -25,6 +25,6 @@ components testing
 
 ## Micro services:
 1. Movies - contains API for managing movies (CRUD, search, etc.).
-2. (Not ready) Users - allows authentication and authorization, adds
+2. Users - allows authentication and authorization, adds
 an ability to use CRUD for users list.
-3. (Not ready) Web - contains web interface for the project.
+3. Web - contains web interface for the project.

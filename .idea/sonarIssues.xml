@@ -3,6 +3,86 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/projects/customer-engagement-suite/.htaccess">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/projects/customer-engagement-suite/frontend/views/frontend-widget/_widgets_loading.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/projects/customer-engagement-suite/frontend/web/js/bundle/helper.media.entry.min.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/projects/customer-engagement-suite/frontend/web/js/bundle/widget.questions.entry.min.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/projects/customer-engagement-suite/frontend/web/js/bundle/widget.requests.entry.min.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/projects/customer-engagement-suite/frontend/web/js/bundle/widget.reviews.entry.min.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/projects/customer-engagement-suite/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/projects/customer-engagement-suite/webpack.config.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/Opc/Block/Adminhtml/System/Config/License.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/Opc/Block/Adminhtml/System/Config/Version.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/Opc/Block/Onepage.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/Opc/Controller/Index/Index.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/Opc/Helper/Data.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/design/frontend/IWD/theme-1/Magento_Theme/web/css/source/_styleGuide.less">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/design/frontend/IWD/theme-1/Magento_Theme/web/css/source/module/_footer1.less">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.gitignore">
           <value>
             <set />
@@ -43,7 +123,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/services/users/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/services/users/src/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/services/users/src/server.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/services/web/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
           <value>
             <set />
           </value>

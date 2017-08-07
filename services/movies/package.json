@@ -5,6 +5,7 @@
   "main": "src/app.js",
   "author": "Dmitryi Feschenko",
   "license": "MIT",
+  "private": true,
   "scripts": {
     "start": "webpack-dev-server",
     "watch": "webpack-dev-server --hot --inline",
