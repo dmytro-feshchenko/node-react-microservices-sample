@@ -22,9 +22,25 @@ containers
 - Swagger UI - for bulding docs
 - Jest + Enzyme - for unit, snapshot and full featured
 components testing
+- TestCafe - E2E testing
 
 ## Micro services:
 1. Movies - contains API for managing movies (CRUD, search, etc.).
 2. Users - allows authentication and authorization, adds
 an ability to use CRUD for users list.
 3. Web - contains web interface for the project.
+
+## Tests:
+#### E2E testing with TestCafe:
+Everything is included in a single module installed with one command.
+```
+npm install -g testcafe
+```
+TestCafe automatically starts browsers, runs tests and gathers results. You only type a single command to begin testing.
+```
+testcafe chrome tests/
+```
+
+## Resources:
+1. OMDb API (http://www.omdbapi.com) is a RESTful web service
+to obtain movie information, all content and images on the site are contributed and maintained by our users.

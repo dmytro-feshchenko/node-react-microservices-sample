@@ -73,6 +73,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/Opc/Plugin/GiftCardAccount.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/Opc/etc/adminhtml/system.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/development/magento/iwdm2/app/design/frontend/IWD/theme-1/Magento_Theme/web/css/source/_styleGuide.less">
           <value>
             <set />
@@ -123,6 +133,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/services/users/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/services/users/package.json">
           <value>
             <set />
@@ -138,7 +153,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/services/web/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/services/web/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tests/login.test.js">
           <value>
             <set />
           </value>

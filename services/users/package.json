@@ -5,6 +5,10 @@
   "author": "Dmitryi Feschenko",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "",
+    "test": ""
+  },
   "dependencies": {
     "body-parser": "^1.17.2",
     "cookie-parser": "^1.4.3",
