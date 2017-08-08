@@ -16,6 +16,7 @@ Clone the project:
 - Docker and Docker Compose - they will help us to build and manage
 containers
 - Node.js (Express) - for designing APIs and creating servers
+- JWT strategy for authentication
 - React - for building web interface
 - Webpack 3 - as a module bundler
 - PostgreSQL

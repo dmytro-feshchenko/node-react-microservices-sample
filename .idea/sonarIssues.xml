@@ -48,6 +48,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/CES/view/frontend/templates/product/counters.phtml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/Opc/Block/Adminhtml/System/Config/License.php">
           <value>
             <set />
@@ -83,12 +88,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/Opc/view/frontend/web/css/iwd_onepage.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/code/IWD/Opc/view/frontend/web/css/source/_module.less">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/design/frontend/IWD/theme-1/Magento_Catalog/web/css/source/module/_product1.less">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/design/frontend/IWD/theme-1/Magento_Theme/web/css/source/_module.less">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/development/magento/iwdm2/app/design/frontend/IWD/theme-1/Magento_Theme/web/css/source/_styleGuide.less">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$USER_HOME$/development/magento/iwdm2/app/design/frontend/IWD/theme-1/Magento_Theme/web/css/source/module/_footer1.less">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/development/magento/iwdm2/app/design/frontend/IWD/theme-1/Magento_Theme/web/css/source/module/_header2.less">
           <value>
             <set />
           </value>
@@ -104,6 +134,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/services/common/middleware/allowCorsMiddleware.js">
           <value>
             <set />
           </value>
@@ -144,6 +179,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/services/users/src/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/services/users/src/auth/jwt-auth.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/services/users/src/routes/users.js">
           <value>
             <set />
           </value>
